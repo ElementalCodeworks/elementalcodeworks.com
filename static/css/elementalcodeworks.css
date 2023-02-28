@@ -1,0 +1,29 @@
+.main-content {
+    max-width: 960px;
+    text-align: justify;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+}
+
+.logo__cursor {
+    background: #3eb0ef;
+}
+
+body > div.container > div > main > div > img {
+    display: inline;
+}
+
+body > div.container > div > main > div > h1 {
+    margin-top: .4em;
+}
+
+p {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 400;
+
+}
