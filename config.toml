@@ -3,6 +3,7 @@ title        = "Elemental Codeworks"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+googleAnalytics = 'G-M4NV7CE2F8'
 
 [params]
 dateform        = "Jan 2, 2006"
