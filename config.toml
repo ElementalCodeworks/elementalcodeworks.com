@@ -53,3 +53,8 @@ logoHomeLink = "/"
 identifier = "contact"
 name       = "Contact"
 url        = "mailto:jake@elementalcodeworks.com"
+
+[[menu.main]]
+identifier = "privacy"
+name       = "Privacy Policy"
+url        = "/privacy.html"
